@@ -106,6 +106,7 @@ OC.L10N.register(
     "_month_::_months_" : ["måned","måneder"],
     "Yearly" : "Årligt",
     "_year_::_years_" : ["år","år"],
+    "Remove recurrence" : "Fjern gentagelse",
     "Save" : "Gem",
     "Set value" : "Indstil værdi",
     "Delete value" : "Slet værdi",
